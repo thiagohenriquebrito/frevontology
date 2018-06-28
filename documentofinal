@@ -1,0 +1,1255 @@
+IRI:
+http://webprotege.stanford.edu/project/7dpHki2D3kJv7TOxexJnQ
+Other visualisation:
+Ontology source
+Table of Content
+Classes
+Object Properties
+Named Individuals
+Annotation Properties
+Namespace Declarations
+Classes
+abre-alas  alicate  allegory and criticism club  allegory of hand  arranger  banner  block frevo  britadeira  carancolado  carnival mirth  carnival of frevo  carnival parade  carpado  cavaquinho  caxixi  chave de cano  chocalho  choreographer  choreography of frevo  chutando de frente  cinquentao  clarinet  coice de burro  composer of frevo  conductor  costume  costume designer  Craftsman  dançarino de frevo  diadem  dikanza  dobradica  eletric bass  embroiderer  Euphonium  exquisite  faz que vai mais não vai  ferrolho  festival da bailarina  flabelista  flute  folião  frevo  Frevo agent  frevo as carnival manifestation  frevo as cultural heritage  frevo as dance  frevo as music  frevo commendators  frevo conservatory  frevo costumes  frevo de abafo  frevo female coral  frevo lyrics  frevo melody  frevo orchestra  frevo presentation  frevo safeguard institution  frevo singer  frevo song  frevo steps  Frevo's allegory  frevo's association  frevo's club  frevo's passivist  frevo's prop  frevo-coconut tree  frevo-gale  ganza  giant doll  giant doll club  ginasta-do-passo  grilo  guitar  guitar  highlight dancer  intangible cultural heritage of mankind  intangible heritage  joiner  locomotiva  lyrical carnival block  makeup artist  malandro  mandolin  manipulator of the doll  maraca  martelo-rodado  meia-lua  museum  musical instruments  musician  parafuso  parasol  patinho  percussion instrument  pernada  piccolo  pontinha de pé  production team  record company  rojão  rope instrument  saci-pererê  saxophone  school of frevo  seamstress  serrote  set of stick and strings  sheet music of frevo  snare drum  standard-bearer  street frevo  surdo  suspensory  Tambourine  tesoura  tesoura no ar  tramela  trombone  trumpet  tuba  violin  visual aspect of frevo  wind instrument  wind orchestra and percussion 
+abre-alasc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/abre-alas
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+alicatec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/alicate
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+allegory and criticism clubc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/clube-de-alegoria-e-critica
+
+formed by high merchants, employers, among other members of the elite recifense
+
+has super-classes
+frevo's clubc
+allegory of handc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/flabelo
+
+flag of lyrical blocks, type of hand allegory
+
+has super-classes
+Frevo's allegoryc
+arrangerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/arranjador
+
+The frevo arranger is responsible for the adequacy of the composition to the different types of instruments belonging to frevo, as well as to the different types of frevo music.
+
+has super-classes
+Frevo agentc
+colaboratorop some frevo as musicc
+is in domain of
+colaboratorop
+bannerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/estandarte
+
+type of allegory of hand, accompanies the moons and the mixed carnival clubs
+
+has super-classes
+Frevo's allegoryc
+block frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-de-bloco
+
+It is based on strings strummed or played with plectrum (palheta) for harmonic accompaniment (mainly acoustic guitars and cavaquinhos), and woodwinds (mainly flutes, clarinets and saxophones) to solar the introductions, contra -antos and passages "obligadas", kind of music turned only to the lyrical blocks, usually sung by women in a choir and instrumented by men in an orchestra.
+
+has super-classes
+frevo as musicc
+is in range of
+performop
+britadeirac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/britadeira
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+carancoladoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/carancolado
+
+frevo dance mode
+
+has super-classes
+frevo's passivistc
+carnival mirthc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/troca-carnavalesca
+
+The bulls come from various neighborhoods and outlying areas of the city; most of them are named from the locality of origin, can be organized as frevo clubs, as the oldest and traditional, or simply improvised and without great elaborations in the form of being present. (Frevo dossier 2014, p23)
+
+has super-classes
+frevo's associationc
+carnival of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/carnavalesco
+
+The carnival of frevo association is responsible for the organization of the association, this character is responsible for supervising the rehearsals, the productions and all the actions that are done before, during and after the carnival.
+
+has super-classes
+Frevo agentc
+directorop some frevo's associationc
+is in domain of
+directorop
+carnival paradec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/desfile-carnavalesco
+
+Space reserved for carnival gatherings to take to the streets, during the carnival period.
+
+has super-classes
+frevo as carnival manifestationc
+is in range of
+performop
+carpadoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/carpado
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+cavaquinhoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/cavaquinho
+
+The cavaquinho is an instrument of the chordophone family from Minho, northern Portugal, which was later widely introduced in the popular culture of Braga by the noble Biscainhos and from where it was later taken to other places such as Brazil, Cape Verde, Mozambique, Hawaii and Wood. In Brazil, this instrument is used in the Paulista congas and forms, along with the mandolin, the flute, the 7 string guitar, the 6 string guitar and the tambourine the regional ensembles for the performance of choros. (Wikipedia, 2018)
+
+has super-classes
+rope instrumentc
+caxixic back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/caxixi
+
+The caxixi is an idiophonic rattle-type instrument of African origin. It is a small basket of braided straw, bell-shaped, can have several sizes and be simple, double or triple; the opening is closed by a gourd. (Wikipedia, 2018)
+
+has super-classes
+chocalhoc
+chave de canoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/chave-de-cano
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+chocalhoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/chocalhos
+
+generic name for various musical instruments, more precisely idiofones of stirring, that consist of a hollow container that contains small objects in its interior. (Wikipedia, 2018)
+
+has super-classes
+percussion instrumentc
+has sub-classes
+caxixic, ganzac, maracac
+choreographerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/coreografo
+
+elaborates movements of dance of varied rhythms realized by dancers, for assembly of choreographic works (Wikipedia, 2018)
+
+has super-classes
+production teamc
+createop some choreography of frevoc
+is in domain of
+createop
+choreography of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/coreografia
+
+art of composing tracks or a script of movements that compose a dance. (wikipedia, 2018)
+
+has super-classes
+frevo as dancec
+has sub-classes
+frevo stepsc
+is in range of
+createop
+chutando de frentec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/chutando-de-frente
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+cinquentaoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/cinquentao
+
+Frevo dance mode, characterized by the excessive use of facial and body expressions
+
+has super-classes
+frevo's passivistc
+clarinetc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/clarinete
+
+O clarinete (ou clarineta) é um instrumento musical de sopro constituído por um tubo cilíndrico, geralmente de madeira (há modelos de outros materiais), com uma boquilha cônica de uma única palheta e chaves (hastes metálicas, ligadas a tampas para alcançar orifícios aos quais os dedos não chegam naturalmente). (Wikipédia, 2018)
+
+has super-classes
+wind instrumentc
+coice de burroc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/coice
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+composer of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/compositor
+
+Frevo's composer can compose both frevo-song musics, melodies and lyrics, as well as musics for street frevo, with only instrumental content.
+
+has super-classes
+Frevo agentc
+creatorop some frevo as musicc
+is in domain of
+creatorop
+conductorc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/maestro
+
+The conductor frevo orchestra, rules the orchestra guiding his route in the street and its rhythm. A characteristic object of this character is the whistle, used for time marking.
+
+has super-classes
+Frevo agentc
+conductorop some frevo orchestrac
+is in domain of
+conductorop
+costumec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/figurino
+
+costume worn by a character from an artistic production (Wikipedia, 2018)
+
+has super-classes
+Frevo's allegoryc
+has sub-classes
+frevo costumesc
+costume designerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/figurinista
+
+takes care of the costumes of the actors, designing costumes and accompanying them to the confection. (Wikipedia, 2018)
+
+has super-classes
+production teamc
+Craftsmanc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/artesao
+
+professional who manufactures products through a manual process or with the aid of tools (Wikipédia, 2018)
+
+has super-classes
+production teamc
+has producedop some Frevo's allegoryc
+is in domain of
+has producedop
+dançarino de frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/dancarino-de-frevo
+
+dance professional
+
+has super-classes
+Frevo agentc
+performop some frevo as dancec
+movedop some Frevo's allegoryc
+has sub-classes
+frevo's passivistc, highlight dancerc
+is in domain of
+performop
+is in range of
+identificadorop
+diademc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/tiara
+
+head object used by women as beautifying element.
+
+has super-classes
+frevo's propc
+dikanzac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/reco-reco
+
+Reco-reco or dikanza (also known in Brazil by: scraper, caracaxá or querequexé) is a generic term that indicates the idiofones whose sound is produced by scraping. There are two basic types of reco-reco (Wikipedia, 2018)
+
+has super-classes
+percussion instrumentc
+dobradicac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/dobradica
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+eletric bassc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/baixo-eletrico
+
+Eletric bass. String instrument used by various musical genres. (Wikipedia, 2018)
+
+has super-classes
+rope instrumentc
+embroidererc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/bordadeira
+
+consists of producing embroidery, designed to embellish both pieces of clothing as well as adornments (Wikipédia, 2018)
+
+has super-classes
+production teamc
+Euphoniumc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/bombardino
+
+The euphonium or euphonium or euphonium is an aerophone of the metal family. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+exquisitec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/requinta
+
+Requinta is a designation given in Portuguese to several instruments. This is the case of the Braga, the clarinets and the flutes. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+faz que vai mais não vaic back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/faz-que-vai-mas-nao-vai
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+ferrolhoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/ferrolho
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+festival da bailarinac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/festival-bailarina
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+flabelistac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/flabelista
+
+person bearing the flabelo, flag of the lyrical blocks
+
+has super-classes
+highlight dancerc
+flutec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/flauta
+
+The flute is a musical wind instrument made of various types of hollow-hollow tube-shaped woods (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+foliãoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/foliao
+
+Frevo's type of passer
+
+has super-classes
+frevo's passivistc
+frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo
+
+"A manifestation that was created in the midst of the people and then affirms itself as a striking feature of its urban physiognomy" (Dossiê do Frevo, 2014, 24)
+
+has super-classes
+thingc
+has sub-classes
+frevo as carnival manifestationc, frevo as cultural heritagec, frevo as dancec, frevo as musicc
+is in range of
+constructorop, safeguardop
+Frevo agentc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/agente
+
+Individuals and legal entities that contributed and / or contributed to the frevo practices, enabling it to remain alive and well known.
+
+has super-classes
+thingc
+constructorop some frevoc
+has sub-classes
+arrangerc, carnival of frevoc, composer of frevoc, conductorc, dançarino de frevoc, frevo commendatorsc, frevo female coralc, frevo orchestrac, frevo safeguard institutionc, frevo singerc, frevo's associationc, musicianc, production teamc
+is in domain of
+constructorop
+frevo as carnival manifestationc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-manifestacao-carnavalesca
+
+type of cultural event
+
+has super-classes
+frevoc
+has sub-classes
+carnival paradec, frevo presentationc, visual aspect of frevoc
+is in range of
+producerop
+frevo as cultural heritagec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-patrimonio
+
+Frevo as patrimony in the sense of actions to safeguard, preserve and maintain this cultural practice.
+
+has super-classes
+frevoc
+is in range of
+safeguardop
+frevo as dancec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-danca
+
+Type of art-scenic body. (wikipedia, 2018)
+
+has super-classes
+frevoc
+has sub-classes
+choreography of frevoc
+is in range of
+performop
+frevo as musicc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-musica
+
+sound frevo type
+
+has super-classes
+frevoc
+has sub-classes
+block frevoc, frevo lyricsc, frevo melodyc, frevo songc, sheet music of frevoc, street frevoc
+is in range of
+colaboratorop, creatorop
+frevo commendatorsc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/comendadores-do-frevo
+
+Physical or legal entities responsible for keeping frevo alive.
+
+has super-classes
+Frevo agentc
+safeguardop some frevoc
+is in domain of
+safeguardop
+frevo conservatoryc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/conservatorio-de-frevo
+
+Establishment dedicated to the teaching of music, singing and related subjects;
+
+has super-classes
+frevo safeguard institutionc
+frevo costumesc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/figurino-de-frevo
+
+visual item identifier of frevo dancers and dancers.
+
+has super-classes
+costumec
+is in domain of
+identificadorop
+frevo de abafoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-de-abafo
+
+would relate to the situation of the meeting of two groups during the carnival, when the respective orchestras play at the same time, one trying to stifle others.
+
+has super-classes
+street frevoc
+frevo female coralc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/coral-feminino-de-frevo
+
+Lirico musical group of women, which accompanies the group associations.
+
+has super-classes
+Frevo agentc
+frevo lyricsc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/letra-de-frevo
+
+text contained in the vocal compositions to be sung or sometimes recited. (wikipedia, 2018)
+
+has super-classes
+frevo as musicc
+frevo melodyc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/melodia
+
+The melodic line is responsible for the choreography of the pitch and the movement of the revelers. They are the ones who promote Frevo through the streets of the city and contribute to the excitement of Carnival. GASPAR, LÚCIA (2009)
+
+has super-classes
+frevo as musicc
+frevo orchestrac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/orquestra-de-frevo
+
+instrumental grouping usually used for the performance of concert music
+
+has super-classes
+Frevo agentc
+performop some frevo as musicc
+has sub-classes
+set of stick and stringsc, wind orchestra and percussionc
+is in range of
+conductorop, used byop
+frevo presentationc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/apresentacao-de-frevo
+
+Artistic presentation movement
+
+has super-classes
+frevo as carnival manifestationc
+frevo safeguard institutionc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/instituicao-de-salvaguarda
+
+Spaces or legal entities, important for safeguarding frevo while practicing culture.
+
+has super-classes
+Frevo agentc
+safeguardop some frevo as cultural heritagec
+has sub-classes
+frevo conservatoryc, museumc, record companyc, school of frevoc
+is in domain of
+safeguardop
+frevo singerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/cantor-de-frevo
+
+responsible for singing the songs of frevo
+
+has super-classes
+Frevo agentc
+singerop some frevo songc
+is in domain of
+singerop
+frevo songc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-cancao
+
+created to better adapt frevo to the music industry, enabling frevo to be played on radios all year round and that can be industrialized in the form of DVD's, CDs and internet, making frevo always live in the streets of Recife. It is necessary to observe that although created for the radio diffusion, this frevo also remains strong in the experience of the streets, being songs popular for the population.
+
+has super-classes
+frevo as musicc
+is in range of
+performop, singerop
+frevo stepsc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/passos
+
+choreographic element of frevo.
+
+has super-classes
+choreography of frevoc
+has sub-classes
+abre-alasc, alicatec, britadeirac, carpadoc, chave de canoc, chutando de frentec, coice de burroc, dobradicac, faz que vai mais não vaic, ferrolhoc, festival da bailarinac, griloc, locomotivac, malandroc, martelo-rodadoc, meia-luac, parafusoc, patinhoc, pernadac, pontinha de péc, rojãoc, saci-pererêc, serrotec, tesourac, tesoura no arc, tramelac
+Frevo's allegoryc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/alegoria-de-frevo
+
+Mode of expression or interpretation that consists of representing thoughts, ideas, qualities in figurative form. (Wikipedia, 2018)
+
+has super-classes
+visual aspect of frevoc
+has sub-classes
+allegory of handc, bannerc, costumec, frevo's propc, giant dollc
+is in range of
+has producedop, movedop, segueop
+frevo's associationc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/agremiacao-de-frevo
+
+Host environment, exchange, skills development, recognition of diversity, affirmation of identities and construction of citizenship. (Frevo dossier, 2014, p49)
+
+has super-classes
+Frevo agentc
+producerop some frevo as carnival manifestationc
+performop some carnival paradec
+segueop some Frevo's allegoryc
+has sub-classes
+carnival mirthc, frevo's clubc, giant doll clubc, lyrical carnival blockc
+is in domain of
+performop, producerop, segueop
+is in range of
+directorop
+frevo's clubc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/clube-de-frevo
+
+origin linked to the groups of urban workers, the format of the courting adopted by these corporations was inspired by the processions of Lent and its elements migrated for the carnival celebrations. In your constitution was predominant men, with the groups of capoeiras. They came to be feared by these aspects and by the vigor of music and dance (dossier of frevo, 2014, p.51)
+
+has super-classes
+frevo's associationc
+has sub-classes
+allegory and criticism clubc
+frevo's passivistc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/passista-de-frevo
+
+Usually the frevo passer dancer is accompanied by frevo-de-rua or frevo-canção, has an explosive dance, fast, quarrelsome and agile
+
+has super-classes
+dançarino de frevoc
+has sub-classes
+carancoladoc, cinquentaoc, foliãoc, ginasta-do-passoc
+frevo's propc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/adereco
+
+Visual items that identify frevo practice while dancing
+
+has super-classes
+Frevo's allegoryc
+has sub-classes
+diademc, parasolc, suspensoryc
+is in domain of
+identificadorop
+frevo-coconut treec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-coqueiro
+
+is characterized by the presence of groups of sharp notes, especially trumpets. (The name relates to the drawing, on the musical staff, of bunches of notes above the staff, with the rod pointing downwards, resembling a coconut tree).
+
+has super-classes
+street frevoc
+frevo-galec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-ventania
+
+characterized by uninterrupted sequences of sixteenth notes played by the saxophones.
+
+has super-classes
+street frevoc
+ganzac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/ganza
+
+The ganzá is classified as an idiophone performed by agitation. It is a type of rattle, usually made of a cylindrical shaped metal or plastic tube, filled with sand, cereal grains or small beads. The length of the tube can range from 15cm up to over 50cm. (Wikipedia, 2018)
+
+has super-classes
+chocalhoc
+giant dollc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/boneco-gigante
+
+flag of the giant doll club
+
+has super-classes
+Frevo's allegoryc
+giant doll clubc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/clube-de-boneco-gigante
+
+use as a flag the doll itself, which has his appointment is made, in most cases, according to personalities honors chosen by the creators of the association.
+
+has super-classes
+frevo's associationc
+ginasta-do-passoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/ginasta-do-passo
+
+frevo dance mode
+
+has super-classes
+frevo's passivistc
+griloc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/grilo
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+guitarc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/guitarra
+
+guitar refers to a series of strummed string instruments, which generally have 6 to 12 strings stretched throughout the instrument and have a body with an approximate shape of 8 (although they also exist in several other formats), as well as an arm , on which the strings pass, allowing the performer to control the height of the note produced. (Wikipedia, 2018)
+
+has super-classes
+rope instrumentc
+guitarc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/violao
+
+is an acoustic guitar with nylon or steel strings, initially designed for the interpretation of erudite pieces of music. (Wikipedia, 2018)
+
+has super-classes
+rope instrumentc
+highlight dancerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/dancarino-destaque
+
+Dancers with more classical and cordial steps, responsible for carrying the flag of the association
+
+has super-classes
+dançarino de frevoc
+has sub-classes
+flabelistac, manipulator of the dollc, standard-bearerc
+is in domain of
+movedop
+intangible cultural heritage of mankindc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/patrimonio-cultural-imaterial-da-humanidade
+
+Intangible cultural heritage or intangible cultural heritage is a category of cultural heritage defined by the Convention for the Safeguarding of Intangible Cultural Heritage and adopted by UNESCO in 2003. [1] It covers the cultural expressions and traditions that a group of individuals preserves in respect of their ancestry, for future generations. Examples of intangible heritage are: knowledge, ways of doing, forms of expression, celebrations, festivals and popular dances, legends, songs, customs and other traditions. (Wikipedia, 2018)
+
+has super-classes
+intangible heritagec
+intangible heritagec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/patrimonio-imaterial
+
+Cultural goods of an immaterial nature refer to those practices and domains of social life manifested in knowledge, crafts and ways of doing; celebrations; forms of artistic, plastic, musical or playful expression; and places (such as markets, fairs and shrines that house collective cultural practices). (IPHAN, 2018)
+
+has super-classes
+safeguardop some frevoc
+has sub-classes
+intangible cultural heritage of mankindc
+is in domain of
+safeguardop
+joinerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/marceneiro
+
+professional responsible for working with wood, building and repairing furniture, decorative pieces, utilitarian and other pieces of wood. (Wikipedia, 2018)
+
+has super-classes
+production teamc
+has producedop some Frevo's allegoryc
+is in domain of
+has producedop
+locomotivac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/locomotiva
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+lyrical carnival blockc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/bloco-carnavalesco-misto
+
+with a structure similar to that of the Christmas ranches and invented from the meeting of families of the petty bourgeoisie, with the most expressive participation of women, even in the choir. The orchestras were composed of stringed instruments, on and percussion, known as stick and strings. At first, the mixed carnival blocks did not play marches in their repertoire, but tangos, choros and even arias. Frevo's dossier (2014, p.23)
+
+has super-classes
+frevo's associationc
+makeup artistc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/maquiador
+
+a professional who seeks to improve or improve the appearance of people through cosmetic products known as makeup (Wikipedia, 2018)
+
+has super-classes
+production teamc
+malandroc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/malandro
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+mandolinc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/bandolim
+
+Musical instrument of string, of the family of the chordophones, has double cordoamento, that is, four pairs of strings, and its tuning is in the same form as the violin: Sol, Ré, Lá, Mi. The origins of the mandolin trace back to sixteenth-century Italy, and attach it to the lute. (Wikisource, 2018)
+
+has super-classes
+rope instrumentc
+manipulator of the dollc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/manipulador-do-boneco
+
+person carrying the giant doll
+
+has super-classes
+highlight dancerc
+maracac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/maraca
+
+is an agitating idiophone consisting of a ball, which may be cardboard, plastic or gourd, containing dried seeds, grains, rice or coarse sand. (Wikipedia, 2018)
+
+has super-classes
+chocalhoc
+martelo-rodadoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/martelo-rodado
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+meia-luac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/meia-lua
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+museumc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/museu
+
+located in pernambuco, in the neighborhood of old Recife, this space prizes for the safeguarding of frevo and was created in accordance with the plan of safeguard instituted by IPHAN in the year 2007
+
+has super-classes
+frevo safeguard institutionc
+has members
+Paço do Frevoni
+musical instrumentsc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/instrumentos-musicais
+
+object built for the purpose of producing music.
+
+has super-classes
+thingc
+used byop some frevo orchestrac
+has sub-classes
+percussion instrumentc, rope instrumentc, wind instrumentc
+is in domain of
+used byop
+musicianc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/musico
+
+person linked directly to music, either professionally or professionally, performing some function in the field of music (Wikipedia, 2018)
+
+has super-classes
+Frevo agentc
+parafusoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/parafuso
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+parasolc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/sombrinha-frevo
+
+Item used in frevo as a visual dancing element.
+
+has super-classes
+frevo's propc
+patinhoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/patinho
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+percussion instrumentc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/instrumento-de-percussao
+
+musical instrument whose sound is obtained by: impact, scraping or shaking, with or without the aid of drumsticks (wikipedia, 2018)
+
+has super-classes
+musical instrumentsc
+has sub-classes
+Tambourinec, chocalhoc, dikanzac, snare drumc, surdoc
+pernadac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/pernada
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+piccoloc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/flautim
+
+The piccolo or piccolo is a musical instrument of the family of the flute, sounding an octave above the soprano flute, of which it has equal typing. It consists of a small tube about 33 cm long and a mouthpiece. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+pontinha de péc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/pontinha-de-p%C3%A9
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+production teamc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/equipe-de-producao
+
+Group of people responsible for preparing the association for the carnival period
+
+has super-classes
+Frevo agentc
+producerop some frevo as carnival manifestationc
+has sub-classes
+Craftsmanc, choreographerc, costume designerc, embroidererc, joinerc, makeup artistc, seamstressc
+is in domain of
+producerop
+record companyc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/gravadora
+
+Space destined the recording of frevo musics for diffusion in radios, internet and cds and dvds.
+
+has super-classes
+frevo safeguard institutionc
+rojãoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/rojao
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+rope instrumentc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/instrumento-de-corda
+
+musical instruments whose primary source of sound is the vibration of a string tensioned when pinched, bruised or rubbed
+
+has super-classes
+musical instrumentsc
+has sub-classes
+cavaquinhoc, eletric bassc, guitarc, guitarc, mandolinc, violinc
+saci-pererêc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/saci-perere
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+saxophonec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/saxofone
+
+Saxophone, also popularly known as sax, is a wind instrument patented in 1846 by the Belgian Adolphe Sax, a respected instrument maker, who lived in France in the nineteenth century. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+school of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/escola-de-frevo
+
+space destined to the teaching of frevo dance
+
+has super-classes
+frevo safeguard institutionc
+seamstressc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/costureira
+
+professional who operates conventional and special sewing machines, and when he excels in all the machines and operations he starts to make pilot pieces (Wikipédia, 2018)
+
+has super-classes
+production teamc
+serrotec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/serrote
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+set of stick and stringsc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/orquestra-de-pau-e-corda
+
+is based on fingering strings or played with plectrum (reed) for follow-up harmonic (mainly acoustic guitars) and cavaquinhos), and in the suit of wood (mainly flutes, clarinets and saxophones) to solar the introductions, counters and passages "Thanks" (typical example of the latter are the four notes that precede the beginning of second part of you know what it is
+
+In C minor: E flat, F, F sharp, sun. (Frevo dossier, 2014, p.35)
+has super-classes
+frevo orchestrac
+performop some street frevoc
+is in domain of
+performop
+sheet music of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/partitura
+
+written representation of standardized music worldwide (Wikipedia, 2018)
+
+has super-classes
+frevo as musicc
+snare drumc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/caixa
+
+type of bimembranophone drum composed of a cylindrical body of small section, with two skins fixed and tensioned by means of metallic hoops, a metal mat, consisting of small springs of wire placed in contact with the lower skin, that vibrates through the produced resonance whenever the superior skin is percussed, producing a raised sound, characteristic of the military marches. (Wikipedia, 2018)
+
+has super-classes
+percussion instrumentc
+standard-bearerc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/porta-estandarte
+
+Person carrying the banner. The same is usually carried by men, owing to their heavy structure
+
+has super-classes
+highlight dancerc
+street frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/frevo-de-rua
+
+type of frevo created for the manifestations that occur in the middle of the street, with accelerated tempo
+
+has super-classes
+frevo as musicc
+has sub-classes
+frevo de abafoc, frevo-coconut treec, frevo-galec
+is in range of
+performop
+surdoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/surdo
+
+The deaf is a cylindrical drum of great dimensions and deep bass sound. The deaf is typically made of wood or metal and has skins on both sides. This type of bass drum is traditionally used in samba schools, each school having an average of 25 to 35 units in its battery. (Wikipedia, 2018)
+
+has super-classes
+percussion instrumentc
+suspensoryc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/suspensorio
+
+more used by passistas that make use of the dance in the style fifty
+
+has super-classes
+frevo's propc
+Tambourinec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/pandeiro
+
+Pandeiro is the name given to some percussion musical instruments consisting of skin stretched on a narrow frame (rim), which does not even constitute a resonance box. (Wikipedia, 2018)
+
+has super-classes
+percussion instrumentc
+tesourac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/tesoura
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+tesoura no arc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/tesoura-no-ar
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+tramelac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/tramela
+
+type of frevo-dance step
+
+has super-classes
+frevo stepsc
+trombonec back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/trombone
+
+The trombone is an aerophone of the metal family whose invention dates back to the 15th century. Its name derives from Italian and means big trumpet. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+trumpetc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/trompete
+
+The trumpet is a musical instrument of blow of the family of metals, characterized by instruments of mouthpiece, generally made of metal. It is also known as piston. Who plays the trumpet is called a trumpet player (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+tubac back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/tuba
+
+There are tubas of various sizes: tenor, bass and double bass. Since its appearance in the first half of the nineteenth century, it was soon incorporated into symphonic orchestras. its function is to pace and occupy vacant places in schools. (Wikipedia, 2018)
+
+has super-classes
+wind instrumentc
+violinc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/violino
+
+It is the smallest and most acute of the instruments of his family (who still owns the viola, the cello, corresponding to the Soprano of the human voice). The violin has four strings, with tuning from the sharpest to the most severe: Mi5, Lá4, Ré4 and Sol3. The tone of the violin is sharp, bright and strident, but depending on the string used and the way it is played, more velvety tones can be produced. Sound is usually produced by rubbing the bristles of a wooden bow over the strings. It can also be performed by pinching or strumming the ropes (pizzicato), by friction of the wood part of the bow (col legno), or even by percussion with the fingers or the back of the bow. (Wikipedia, 2018)
+
+has super-classes
+rope instrumentc
+visual aspect of frevoc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/aspecto-visual
+
+Visual items representative of frevo.
+
+has super-classes
+frevo as carnival manifestationc
+has sub-classes
+Frevo's allegoryc
+wind instrumentc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/instrumento-de-sopro
+
+are musical instruments in which the sound is produced by the vibration of an air column (Wikiédia, 2018)
+
+has super-classes
+musical instrumentsc
+has sub-classes
+Euphoniumc, clarinetc, exquisitec, flutec, piccoloc, saxophonec, trombonec, trumpetc, tubac
+wind orchestra and percussionc back to ToC or Class ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/orquestra-de-sopro-e-percurssao
+
+predominance of instruments of mouthpiece (trumpets, trombones, tuba) and participation of the card said "of the woods" (though some of these instruments are today made of metal): saxophones, clarinets, requinte, flute and piccolo; the percussion composed of deaf, box and tambourine. This would be the most classic, directly inspired of martial bands. (Frevo dossier, 2014, p.33)
+
+has super-classes
+frevo orchestrac
+performop some frevo songc
+performop some block frevoc
+is in domain of
+performop
+Object Properties
+colaborator  conductor  constructor  create  creator  director  has produced  identificador  moved  perform  perform  producer  safeguard  segue  singer  used by 
+colaboratorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/colaborador
+
+has super-properties
+top object property
+has domain
+arrangerc
+has range
+frevo as musicc
+conductorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/regente
+
+has super-properties
+top object property
+has domain
+conductorc
+has range
+frevo orchestrac
+constructorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/construtor
+
+has super-properties
+top object property
+has domain
+Frevo agentc
+has range
+frevoc
+createop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/cria
+
+has super-properties
+top object property
+has domain
+choreographerc
+has range
+choreography of frevoc
+creatorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/criador
+
+has super-properties
+top object property
+has domain
+composer of frevoc
+has range
+frevo as musicc
+directorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/diretor
+
+has super-properties
+top object property
+has domain
+carnival of frevoc
+has range
+frevo's associationc
+has producedop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/produz
+
+has super-properties
+top object property
+has domain
+Craftsmanc
+joinerc
+has range
+Frevo's allegoryc
+identificadorop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/identificador
+
+has super-properties
+top object property
+has domain
+frevo's propc
+frevo costumesc
+has range
+dançarino de frevoc
+movedop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/move
+
+has super-properties
+top object property
+has domain
+highlight dancerc
+has range
+Frevo's allegoryc
+performop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/apresenta
+
+has super-properties
+top object property
+has domain
+dançarino de frevoc
+set of stick and stringsc
+wind orchestra and percussionc
+has range
+frevo songc
+frevo as dancec
+block frevoc
+street frevoc
+performop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/realiza
+
+has super-properties
+top object property
+has domain
+frevo's associationc
+has range
+carnival paradec
+producerop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/produtor
+
+has super-properties
+top object property
+has domain
+frevo's associationc
+production teamc
+has range
+frevo as carnival manifestationc
+safeguardop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/salvaguarda
+
+has super-properties
+top object property
+has domain
+frevo commendatorsc
+frevo safeguard institutionc
+intangible heritagec
+has range
+frevoc
+frevo as cultural heritagec
+segueop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/segue
+
+Vem depois
+
+has super-properties
+top object property
+has domain
+frevo's associationc
+has range
+Frevo's allegoryc
+singerop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/interprete
+
+has super-properties
+top object property
+has domain
+frevo singerc
+has range
+frevo songc
+used byop back to ToC or Object Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/utiliza
+
+has super-properties
+top object property
+has domain
+musical instrumentsc
+has range
+frevo orchestrac
+Named Individuals
+Instituto do Patrimônio Histórico Artístico Nacional  Paço do Frevo  Prefeitura da Cidade do Recife 
+Instituto do Patrimônio Histórico Artístico Nacionalni back to ToC or Named Individual ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/IPHAN
+
+Paço do Frevoni back to ToC or Named Individual ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/Paco-do-Frevo
+
+belongs to
+museumc
+Prefeitura da Cidade do Recifeni back to ToC or Named Individual ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/PCR
+
+Annotation Properties
+comment  label  pref label  wasDerivedFrom 
+commentap back to ToC or Annotation Property ToC
+IRI: http://www.w3.org/2000/01/rdf-schema#comment
+
+labelap back to ToC or Annotation Property ToC
+IRI: http://www.w3.org/2000/01/rdf-schema#label
+
+pref labelap back to ToC or Annotation Property ToC
+IRI: http://www.w3.org/2004/02/skos/core#prefLabel
+
+wasDerivedFromap back to ToC or Annotation Property ToC
+IRI: http://logic.ufpe.br/vocab/ontology/frevontology/wasDerivedFrom
+
+Namespace Declarations back to ToC
+default namespace
+http://webprotege.stanford.edu/project/7dpHki2D3kJv7TOxexJnQ#
+17302
+https://leismunicipais.com.br/a/pe/r/recife/lei-ordinaria/2007/1730/17302/
+cidoc-crm-version-5-0-4-html
+http://www.cidoc-crm.org/sites/default/files/Documents/cidoc_crm_version_5.0.4.html#
+dbo
+http://dbpedia.org/ontology/
+entity
+http://www.wikidata.org/entity/
+index-php
+http://mappings.dbpedia.org/index.php/
+logico
+http://logic.ufpe.br/vocab/ontology/frevontology/
+owl
+http://www.w3.org/2002/07/owl#
+project
+http://webprotege.stanford.edu/project/
+property
+http://dbpedia.org/property/
+prov
+https://www.w3.org/ns/prov#
+rdf
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs
+http://www.w3.org/2000/01/rdf-schema#
+resource
+http://dbpedia.org/resource/
+skos
+http://www.w3.org/2004/02/skos/core#
+wiki
+https://en.wikipedia.org/wiki/
+xsd
+http://www.w3.org/2001/XMLSchema#
